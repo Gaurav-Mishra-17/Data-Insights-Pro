@@ -133,7 +133,7 @@ statsmodels>=0.14.0
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/GauravM1710/Data-Insights-Pro.git
+git clone https://github.com/Gaurav-Mishra-17/Data-Insights-Pro.git
 cd datainsights-pro
 ```
 
@@ -240,7 +240,7 @@ Navigate to `http://localhost:8501` and start analyzing your data!
 ### 📋 **Development Setup**
 ```bash
 # Clone your fork
-git clone https://github.com/GauravM1710/Data-Insights-Pro.git
+git clone https://github.com/Gaurav-Mishra-17/Data-Insights-Pro.git
 
 # Create virtual environment
 python -m venv venv
