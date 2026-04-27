@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+utils/.env
+utils/.env.*
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+*.log
