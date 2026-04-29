@@ -77,7 +77,7 @@ def main():
         - Machine learning without coding
         - Trend forecasting & insights
         """)
-        st.image("https://cdn.careerfoundry.com/en/wp-content/uploads/2020/10/data-analytics-tools.webp", use_container_width=True)
+        st.image("https://cdn.careerfoundry.com/en/wp-content/uploads/2020/10/data-analytics-tools.png", use_container_width=True)
     
     st.markdown("---")
     
