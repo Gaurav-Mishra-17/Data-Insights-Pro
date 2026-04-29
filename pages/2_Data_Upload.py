@@ -122,11 +122,11 @@ def main():
             col1, col2 = st.columns([1, 3])
             with col1:
                 if quality_score >= 80:
-                    st.success(f"Quality Score: {quality_score}/100")
+                    st.success(f"Quality Score: {quality_score:.2f}/100")
                 elif quality_score >= 50:
-                    st.warning(f"Quality Score: {quality_score}/100")
+                    st.warning(f"Quality Score: {quality_score:.2f}/100")
                 else:
-                    st.error(f"Quality Score: {quality_score}/100")
+                    st.error(f"Quality Score: {quality_score:.2f}/100")
             
             with col2:
                 if quality_score >= 80:
